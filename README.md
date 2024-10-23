@@ -1,4 +1,4 @@
-# Cat-Dog-Classification
+# Image Classification
 
 ## How to Run
 
